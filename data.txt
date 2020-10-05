@@ -1,0 +1,1 @@
+{"people": [{"first_name": "John", "last_name": "Kowalski", "pesel": "92051412345"}, {"first_name": "Edyta", "last_name": "Piotrowska", "pesel": "70040967891"}, {"first_name": "Katarzyna", "last_name": "Domagala", "pesel": "80120214348"}, {"first_name": "Piotr", "last_name": "Dutkowski", "pesel": "70040707390"}]}
